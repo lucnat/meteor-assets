@@ -95,6 +95,8 @@ App.launchScreens({
   "iphone6": "resources/splashes/iphone6.png", // 750x1334
   "iphone6p_portrait": "resources/splashes/iphone6p_portrait.png", // 2208x1242
   "iphone6p_landscape": "resources/splashes/iphone6p_landscape.png", // 2208x1242
+  "iphoneX_portrait": "resources/splashes/iphoneX_portrait.png", // 1125x2436
+  "iphoneX_landscape": "resources/splashes/iphoneX_landscape.png", // 2436x1125
   "ipad_portrait": "resources/splashes/ipad_portrait.png", // 768x1024
   "ipad_portrait_2x": "resources/splashes/ipad_portrait_2x.png", // 1536x2048
   "ipad_landscape": "resources/splashes/ipad_landscape.png", // 1024x768
@@ -108,7 +110,7 @@ App.launchScreens({
   "android_xxhdpi_portrait": "resources/splashes/android_xxhdpi_portrait.png", // 1080x1440
   "android_xxhdpi_landscape": "resources/splashes/android_xxhdpi_landscape.png", // 1440x1080
   "android_featured": "resources/splashes/android_featured.png" // 1024x500
-})
+});
 ```
 
 Sizes thanks to https://github.com/meteor/meteor/blob/release-1.3/tools/cordova/builder.js
